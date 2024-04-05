@@ -1,1 +1,1 @@
-ShopEasy - Fashion Recommeder System
+**ShopEasy - Fashion Recommender System**
